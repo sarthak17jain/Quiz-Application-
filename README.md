@@ -6,4 +6,4 @@ Features:
 >Keeps the track of the users score.
 >Multiplayer mode wherein multiple players can compete with each other and the winner of the quiz will be declared. 
 >Admin mode wherein the admin can insert or delete questions in the text file directly from console window.
-I made this project using turboc++ in my class 12th. 
+I made this project using TurboC++ in my class 12th. 
